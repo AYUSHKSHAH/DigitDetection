@@ -19,7 +19,7 @@ of a large range of fonts, colours, styles, orientations, and character arrangem
 lighting, shadows, specularities, and occlusions as well as by image acquisition factors 
 such as resolution, motion, and focus blurs further complicates the scenario.
 
-This project aims to detect the prominent number in each image in a subset of the actual data ([Full data from source](http://docs.h5py.org/en/stable/high/dataset.html ))
+This project aims to detect the prominent number in each image in a subset of the actual data ([file format](http://docs.h5py.org/en/stable/high/dataset.html ))
 
 ## Domain
 Autonomous Vehicles, Neural Networks
