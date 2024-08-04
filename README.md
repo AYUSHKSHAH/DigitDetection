@@ -31,3 +31,25 @@ Autonomous Vehicles, Neural Networks
 - Build a Custom Architecture using Keras and Tensorflow using appropriate activation functions and categorical cross-entropy as the loss function
 - Hyperparameter tune the model to increase the training and validation accuracy and prevent overfitting
 
+## How to Run The Code
+1. Clone/Fork the repository.
+2. Ensure that you have git installed. If not, please install it from [here](https://git-scm.com/downloads) based on your machine. Similarly install git LFS from [here](https://git-lfs.com/)
+3. Ensure that python3 is installed in your system. You can download and install python 3 from [here](https://www.python.org/downloads/)
+4. Next, create a virtual environment and activate as follows.<br>
+
+    - For windows command prompt
+        ```
+        python -m venv myenv
+        myenv\Scripts\activate
+        ```
+
+    - For macOS and Linux
+        ```
+        python -m venv myenv
+        . myenv/bin/activate
+        ```
+5. Install the dependencies as follows
+    ```
+    pip install -r requirements.txt
+    ```
+6. Run the jupyter notebook, `Solution.ipynb`
